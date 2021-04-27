@@ -1,0 +1,72 @@
+h1 {
+  background-color: grey;
+  text-align: center;
+}
+
+input {
+  width: 99%;
+}
+
+svg.svg-container {
+  margin-top: 5px;
+  border: thin solid black;
+  margin-right: 5px;
+  width: 100%;
+  background: white;
+}
+
+div.svg-parent {
+  padding-right: 5px;
+}
+
+rect {
+  fill: darkblue;
+}
+
+rect:hover {
+  fill: green;
+}
+
+/* =========================================== */
+.input {
+  width: 95%;
+  margin-left: 2%;
+  align-content: center;
+}
+
+h1 {
+  background-color: grey;
+  text-align: center;
+}
+
+.footer {
+  height: 30px;
+  line-height: 30px;
+  bottom: 0;
+}
+
+.chart-frame {
+  align-content: center;
+  position: fixed;
+  margin-bottom: 30px;
+  height: 90%;
+  width: 98%;
+  border-radius: 12px;
+}
+p {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.instructions {
+  border: thin solid black;
+  margin: 5px;
+  border-radius: 12px;
+  background: lightgray;
+}
+
+/* ====================================================================== */
+
+html {
+  height: 100%;
+}
